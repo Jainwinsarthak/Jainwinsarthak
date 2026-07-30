@@ -53,7 +53,19 @@ public:
 
 ## Featured Projects
 
-### RoboWar Combat Robot
+
+### ▌AirSight India – AQI Prediction System
+
+**Live:** https://predictaqi.vercel.app/
+
+- Developed a machine learning-based AQI prediction platform using historical pollution data.
+- Built the complete ML pipeline including data preprocessing, feature engineering, model training, evaluation, and deployment.
+- Automated daily AQI data updates to improve prediction accuracy and keep forecasts current.
+- Designed an intuitive web interface for real-time AQI forecasting and visualization.
+
+**Stack:** `Python` `Machine Learning` `XGBoost` `Pandas` `FastAPI` `HTML/CSS` `Git`
+
+### ▌RoboWar Combat Robot
 
 **TechnoXian 8.0 World Robotics Championship | Global Runner-Up**
 
@@ -63,7 +75,7 @@ public:
 
 **Stack:** `C++` `Systems Programming` `OOP` `Robotics`
 
-### Weather Monitoring System
+### ▌Weather Monitoring System
 
 **Embedded firmware for multi-sensor environmental monitoring**
 
@@ -73,7 +85,7 @@ public:
 
 **Stack:** `C++` `Arduino IDE` `OOP` `Data Processing`
 
-### AI-Assisted Developer Portfolio
+### ▌AI-Assisted Developer Portfolio
 
 **Live:** [jainsarthak.vercel.app](https://jainsarthak.vercel.app/)
 
